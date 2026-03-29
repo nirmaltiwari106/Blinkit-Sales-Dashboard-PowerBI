@@ -35,6 +35,7 @@ This project presents an interactive Power BI dashboard built using BlinkIT groc
 
 ## 📷 Dashboard Preview
 ![Dashboard](your-image-link-here)
+<img width="1898" height="963" alt="Screenshot 2026-03-28 213923" src="https://github.com/user-attachments/assets/88a2d192-666b-498b-bc31-ca48d5378ca0" />
 
 ---
 
@@ -49,7 +50,8 @@ The dataset used in this project contains grocery sales data including:
 ---
 
 ## 🚀 How to Use
-1. Download the `.pbix` file
+1. Download the `.pbix`[BlinkIT Grocery Data..xlsx](https://github.com/user-attachments/files/26332325/BlinkIT.Grocery.Data.xlsx)
+ file
 2. Open in Power BI Desktop
 3. Explore the dashboard with filters and visuals
 
